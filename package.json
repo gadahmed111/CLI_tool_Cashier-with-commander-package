@@ -1,0 +1,17 @@
+{
+  "name": "twotoend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run:dev": "nodemon MyCLI_tool_.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "inquirer": "^9.2.16",
+    "lodash": "^4.17.21"
+  }
+}
